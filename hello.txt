@@ -1,0 +1,1 @@
+Hello, I'm André, 30, german and working as chemical engineer since 3 years now. I have a MSc degree from TU Berlin and already gained some experience in python programming. However, the field of data science and machine learning is still unknown to me but of high personal and professional interest.
